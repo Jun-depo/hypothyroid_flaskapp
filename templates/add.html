@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+
+<div class="jumbotron">
+  <h2>Do you want to know your hypothyroid conditions?</h2>
+  <h6>Please provide ALL the following information for initial assessment:</h6>
+
+  <form method="POST">
+      {# This hidden_tag is a CSRF security feature. #}
+      {{ form.hidden_tag() }}
+      {{ form.name.label }}{{ form.name() }}
+      <br>
+
+      {{ form.age.label }}{{ form.age() }}
+      <br>
+
+      {{ form.tsh.label }}{{ form.tsh() }}
+      <br>
+
+      {{ form.t3.label }} {{ form.t3() }}
+      <br>
+
+      {{ form.tt4.label }} {{ form.tt4() }}
+      <br>
+
+      {{ form.t4u.label }} {{ form.t4u() }}
+      <br>
+
+      {{ form.fti.label }} {{ form.fti() }}
+      {{ form.submit() }}<br>
+  </form>
+</div>
+{% endblock %}
