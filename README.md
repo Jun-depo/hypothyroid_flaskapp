@@ -6,7 +6,6 @@ Hypothyroid diseases (underactive thyroid) is a condition in which the body does
 
 The data was from: http://archive.ics.uci.edu/ml/datasets/thyroid+disease. I used "allhypo.data" for the analysis. "allhypo.names" contains the column names of the data. The data contains several categorical data and several thyroid hormone measurements.
 
-The project is still in progress. I will add more html page stylings with css/bootstraps and authentication for the database access in near future.  
 
 There are 4 classes hypothyroids:
 {0: 'No hypothyroid disease', 1: 'Primary hypothyroid', 2: 'Compensated hypothyroid', 3: 'Secondary hypothyroid'}.
@@ -14,3 +13,5 @@ There are 4 classes hypothyroids:
 'Secondary hypothyroid' are very rare in this dataset, only 2 instances in the training set, 0 instance in the test set.  
 
 I made a short video that input 2 cases of data (from test set) into the app.  The first one displayed "No hypothyroid disease". The second case displayed 'Compensated hypothyroid'.  Video link: https://youtu.be/kqXe0S70iug
+
+The project is still in progress. I will add more html page stylings with css/bootstraps and authentication for the database access in near future.  
