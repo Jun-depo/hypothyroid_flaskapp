@@ -12,6 +12,8 @@ There are 4 classes hypothyroids:
 
 'Secondary hypothyroid' are very rare in this dataset, only 2 instances in the training set, 0 instance in the test set.  
 
-I made a short video that input 2 cases of data (from test set) into the app.  The first one displayed "No hypothyroid disease". The second case displayed 'Compensated hypothyroid'.  Video link: https://youtu.be/kqXe0S70iug
+I made a short video that input 2 cases of data (from test set) into the app.  The first one displayed "No hypothyroid disease". The second case displayed 'Compensated hypothyroid'.  
+
+Video link: https://youtu.be/kqXe0S70iug
 
 The project is still in progress. I will add more html page stylings with css/bootstraps and authentication for the database access in near future.  
