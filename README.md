@@ -1,6 +1,6 @@
 # Hypothyroid prediction, a simple flask app. 
 
-I built this flask app on a small machine learning project I did in the past. Based on previous work, I could get decent prediction with numeric testing data with Baysian approach. Neural network model with numeric data gave similar levels of performance. Although predictions would be better using all data, I just wanted a simple version of the app with less input.
+I built this flask app on a small machine learning project I did in the past. Based on previous work, I could get decent prediction with just numeric testing data based on the previous Baysian model I did. Neural network model with numeric data gave similar levels of performance. Although predictions would be better when using all data, I just wanted a simple version of the app with less inputs.
 
 Hypothyroid diseases (underactive thyroid) is a condition in which the body doesn't produce enough of important thyroid hormones. The condition may lead to various symptoms at late ages. More information about the disease is available at https://www.mayoclinic.org/diseases-conditions/hypothyroidism/symptoms-causes/syc-20350284 .
 
