@@ -17,9 +17,7 @@ I built this flask app on a small machine learning project I did in the past. I 
 Based on my previous work, I could get decent prediction with just numeric data with the Baysian model. I built neural network model with the numeric data that gave similar levels of performance. Although predictions would be better when using all data, I just wanted a simple version of the app with less inputs.
 
 
-I made a short video that input 2 cases of data (from test set) into the app.  The first one displayed "No hypothyroid disease". The second case displayed 'Compensated hypothyroid'.  
-
 ### Video demo of the App.  
 https://youtu.be/kqXe0S70iug
 
-
+I made the short video that input 2 cases of data into the app.  The first one displayed "No hypothyroid disease". The second case displayed 'Compensated hypothyroid'.  
