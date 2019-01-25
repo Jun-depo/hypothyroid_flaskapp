@@ -13,7 +13,7 @@ There are 4 classes hypothyroids:
 ### About the App.  
 I built this flask app on a small machine learning project I did in the past. I want the to have simple user interface, that turns input data into output prediction.  Here is a simple diagram of the app. 
 
-https://github.com/Jun-depo/hypothyroid_flaskapp/blob/master/hypothyroid%20app.png
+![alt text](https://github.com/Jun-depo/hypothyroid_flaskapp/blob/master/hypothyroid%20app.png)
 
 
 Based on my previous work, I could get decent prediction with just numeric data with the Baysian model. I built neural network model with the numeric data that gave similar levels of performance. Although predictions would be better when using all data, I just wanted a simple version of the app with less inputs.
