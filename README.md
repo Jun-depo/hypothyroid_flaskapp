@@ -1,5 +1,7 @@
 # Hypothyroid prediction, a simple flask app. 
 
+## The app will be rewritten in near future, using XGBoost model.  Read more [here](https://github.com/Jun-depo/Hypothyroid-Prediction) about the model.
+
 ### About Hypothyroid Diseases.
 Hypothyroid diseases (underactive thyroid) is a condition in which the body doesn't produce enough of important thyroid hormones. The condition may lead to various symptoms at late ages. More information about the disease is available at https://www.mayoclinic.org/diseases-conditions/hypothyroidism/symptoms-causes/syc-20350284 .
 
